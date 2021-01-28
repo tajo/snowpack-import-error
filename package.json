@@ -9,6 +9,6 @@
     "snowpack": "^3.0.11"
   },
   "scripts": {
-    "serve": "run-sp serve"
+    "serve": "./library/run.mjs serve"
   }
 }
